@@ -1,1 +1,2 @@
- My first read me
+ Full of curiosity to learn
+ 
